@@ -4,7 +4,7 @@
 
 Our application follows a **microservices architecture** pattern, designed for scalability, resilience, and independent service deployment. The system is built using Spring Boot microservices with an event-driven communication model between critical services.
 
-![System Architecture Diagram](../docs/architecture-diagram.png)
+![System Architecture Diagram](../architecture-diagram.png)
 
 ### Architecture Highlights
 
